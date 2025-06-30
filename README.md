@@ -8,7 +8,7 @@
 Clone project and run test:
 
 ```
-git clone https://github.com/Anhcodervuive/HTQL_Doanh_Nghiep.git <project dir>
+git clone https://github.com/thuyy083/ecommerce-management-system.git <project dir>
 cd <project dir>
 npm i
 npm run dev
