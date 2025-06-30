@@ -1,4 +1,4 @@
-# Enterprise management system
+# ecommerce-management-system
 
 ## Requirements
 * **nodejs = v22.13.1**
