@@ -1,0 +1,18 @@
+.custom-color-picker {
+    display: flex;
+    flex-direction: column;
+    gap: 5px; /* Tạo khoảng cách giữa các phần tử */
+}
+
+.custom-swatch-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px; /* Tạo khoảng cách giữa các ô màu */
+}
+  
+.custom-swatch-container div {
+    width: 24px; /* Kích thước nhỏ hơn */
+    height: 24px;
+    border-radius: 4px; /* Bo góc cho mềm mại */
+    border: 1px solid #ccc; /* Viền để nhìn rõ hơn */
+}
